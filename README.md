@@ -33,3 +33,5 @@ ui.textBrowser.lineWrapMode()#设置自动换行
 #out = out.decode(encoding)
 out = out.decode(encoding, errors='ignore')
 ```
+## screenshot
+![img](https://blog-1259438478.cos.ap-nanjing.myqcloud.com/post-picture1/fofa-gui.png)
